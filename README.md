@@ -2,54 +2,54 @@
 ### Paulo Boaventura 👋
 <br>
 
- </p><p><i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;" class="">Na escola, ele sempre foi o representante da sua turma! </font><font style="vertical-align: inherit;">🤓</font></font></i></p>
+ </p><p> <i> <font style = "vertical-align: inherit;"> <font style = "vertical-align: inherit;" class = ""> At school, he was always the representative of his class! </font> <font style = "vertical-align: inherit;"> 🤓 </font> </font> </i> </p>
 
-<p><i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">O papel do Chief Marketing Officer (CMO) ou Diretor de Marketing é liderar a atividade de marketing geral de uma organização, em particular na sua dimensão digital; </font><font style="vertical-align: inherit;" class="">da pesquisa de mercado à estratégia de publicidade, passando pela orientação do desenvolvimento das ofertas da empresa, direcionamento do cliente e branding.&nbsp;</font></font></i></p>
+<p> <i> <font style = "vertical-align: inherit;"> <font style = "vertical-align: inherit;"> The role of the Chief Marketing Officer (CMO) or Marketing Director is to lead the business of general marketing of an organization, particularly in its digital dimension; </font> <font style = "vertical-align: inherit;" class = ""> from market research to advertising strategy, including guidance on the development of company offers, customer targeting and branding. & nbsp; </font> </font> </i> </p>
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">A função de Chief Marketing Officer integra todas as dimensões digitais de relacionamento com o cliente, e-marketing e novas ferramentas de análise, prospecção e canais de publicidade online.</font></font></p>
+<p> <font style = "vertical-align: inherit;"> <font style = "vertical-align: inherit;"> The Chief Marketing Officer function integrates all the digital dimensions of customer relationship, e-marketing and new analysis tools, prospecting and online advertising channels. </font> </font> </p>
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ele também é responsável por definir a estratégia de marketing da empresa, analisando as relações com o cliente e as vendas e estudando o comportamento de compra. </font><font style="vertical-align: inherit;">Ele muda a imagem da marca e otimiza a promoção de vendas para aumentar a lucratividade e a participação de mercado da empresa. </font><font style="vertical-align: inherit;">A sua função é essencial na transformação digital das empresas através da gestão da evolução dos canais de distribuição.</font></font></p>
+<p> <font style = "vertical-align: inherit;"> <font style = "vertical-align: inherit;"> He is also responsible for defining the company's marketing strategy, analyzing customer relations and sales and studying buying behavior. </font> <font style = "vertical-align: inherit;"> It changes the brand image and optimizes sales promotion to increase the company's profitability and market share. </ font> <font style = "vertical-align: inherit;"> His role is essential in the digital transformation of companies by managing the evolution of distribution channels. </ font> </ font> </ p>
 <br>
-<p>Desenvolvedor de Sistemas, Plataformas Web com integração Social Media. Especialista em Server Mechanic  e Marketing Management. 
+<p> Systems Developer, Web Platforms with Social Media integration. Specialist in Server Mechanic and Marketing Management.
 
 
-Graduado em Design Gráfico - FMU
+Graduated in Graphic Design - FMU
 
-Atua em gerenciamento de Servidores para alocação de Criptografia de Dados, com proteção de seguranças de alto nível.
- Atualmente estuda Aprendizado de Máquina com ênfase em Realidade Virtual.
+Operates in server management for data encryption allocation, with high level security protection.
+ Currently studying Machine Learning with an emphasis on Virtual Reality.
 
-Co-criador e desenvolvedor de plataformas específicas para redações jornalísticas, com publicação Web. 
+Co-creator and developer of specific platforms for newsrooms, with Web publication.
 
-Colaborador das principais plataformas utilizadas no mundo: Joomla, Wordpress e Drupal. 
-
-
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ele é um apaixonado por Profissões Digitais e suas inovações.
+Collaborator of the main platforms used in the world: Joomla, Wordpress and Drupal.
 
 
-  ### 🔭   Quer saber ainda mais? 
+<p> <font style = "vertical-align: inherit;"> <font style = "vertical-align: inherit;"> He is passionate about Digital Professions and their innovations.
+
+
+  ### 🔭 Want to know even more?
 
  - Linkedin - >> <link> https://www.linkedin.com/in/pauloboaventura/ </link>
 
-Isso é o basico, esse garoto tem uma historia que dá uma trilogia e ainda fica faltando coisa... 
-Se acha que esta faltando algum detalhe... 
-Só me avisar, que providencio... 
+That's the basics, this kid has a story that gives a trilogy and something is still missing ...
+If you think something is missing ...
+Just let me know, what I can do ...
 
-Abraço do sempre Amigo Atualizado <br>
-<b>GitHub</b>
+Hug from the always Updated Friend <br>
+<b> GitHub </b>
 
-<!--
-**PauloBoaventura/PauloBoaventura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<! -
+** PauloBoaventura / PauloBoaventura ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
  
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- I'm currently working on ...
+- I'm currently learning ...
+- ’I’m looking to collaborate on ...
+- I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+->
