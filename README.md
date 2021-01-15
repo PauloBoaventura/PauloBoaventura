@@ -1,5 +1,5 @@
 👋
-### Quer saber um resumo de Paulo Boaventura? 👋
+### Paulo Boaventura 👋
 <br>
 
  </p><p><i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;" class="">Na escola, ele sempre foi o representante da sua turma! </font><font style="vertical-align: inherit;">🤓</font></font></i></p>
@@ -15,8 +15,8 @@
 
 Graduado em Design Gráfico - FMU
 
-Atua como gerenciamento de Servidores para alocação de Dados Criptografados com proteção de seguranças de alto nível.
- Atualmente estudo Aprendizado de Máquina com ênfase em Realidade Virtual.
+Atua em gerenciamento de Servidores para alocação de Criptografia de Dados, com proteção de seguranças de alto nível.
+ Atualmente estuda Aprendizado de Máquina com ênfase em Realidade Virtual.
 
 Co-criador e desenvolvedor de plataformas específicas para redações jornalísticas, com publicação Web. 
 
