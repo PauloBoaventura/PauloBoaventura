@@ -15,7 +15,7 @@
 
 Graduado em Design Gráfico - FMU
 
-Experiência: Gerenciamento de Servidores para alocação de Dados Criptografados com proteções de seguranças de alto nível.
+Atua como gerenciamento de Servidores para alocação de Dados Criptografados com proteção de seguranças de alto nível.
  Atualmente estudo Aprendizado de Máquina com ênfase em Realidade Virtual.
 
 Co-criador e desenvolvedor de plataformas específicas para redações jornalísticas, com publicação Web. 
