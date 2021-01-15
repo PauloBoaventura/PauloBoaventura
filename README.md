@@ -9,6 +9,19 @@
 <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">A função de Chief Marketing Officer integra todas as dimensões digitais de relacionamento com o cliente, e-marketing e novas ferramentas de análise, prospecção e canais de publicidade online.</font></font></p>
 
 <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ele também é responsável por definir a estratégia de marketing da empresa, analisando as relações com o cliente e as vendas e estudando o comportamento de compra. </font><font style="vertical-align: inherit;">Ele muda a imagem da marca e otimiza a promoção de vendas para aumentar a lucratividade e a participação de mercado da empresa. </font><font style="vertical-align: inherit;">A sua função é essencial na transformação digital das empresas através da gestão da evolução dos canais de distribuição.</font></font></p>
+<br>
+<p>Desenvolvedor de Sistemas, Plataformas Web com integração Social Media. Especialista em Server Mechanic  e Marketing Management. 
+
+
+Graduado em Design Gráfico - FMU
+
+Experiência: Gerenciamento de Servidores para alocação de Dados Criptografados com proteções de seguranças de alto nível.
+ Atualmente estudo Aprendizado de Máquina com ênfase em Realidade Virtual.
+
+Co-criador e desenvolvedor de plataformas específicas para redações jornalísticas, com publicação Web. 
+
+Colaborador das principais plataformas utilizadas no mundo: Joomla, Wordpress e Drupal. 
+
 
 <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ele é um apaixonado por Profissões Digitais e suas inovações.
 
