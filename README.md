@@ -44,6 +44,6 @@ Hug from the always Updated Friend <br>
 - 💬 Ask me about all
 - 📫 How to reach me: pauloboaventura@gmail.com //// +5521983799998
 - 😄 Pronouns: diverific
-- ⚡ Fun fact criator Youtuber (=P)
+- ⚡ Fun fact criator Director Youtuber  (=P)
 ->
   
