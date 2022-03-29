@@ -1,7 +1,3 @@
-👋
-### Paulo Boaventura 👋
-<br>
-
 # I'm Boaventura
 ## A Senior DevOps 
 
