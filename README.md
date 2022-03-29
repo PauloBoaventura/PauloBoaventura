@@ -2,6 +2,38 @@
 ### Paulo Boaventura 👋
 <br>
 
+# I'm Boaventura
+## A Senior DevOps 
+
+<!--
+**PauloBoaventura/PauloBoaventura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+![Paulo Boaventura's github stats](https://github-readme-stats.vercel.app/api?username=PauloBoaventura&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloBoaventura&layout=compact&theme=dark)
+
+
+## Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=PauloBoaventura&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloBoaventura&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<br>
+
  </p><p> <i> <font style = "vertical-align: inherit;"> <font style = "vertical-align: inherit;" class = ""> At school, he was always the representative of his class! </font> <font style = "vertical-align: inherit;"> 🤓 </font> </font> </i> </p>
 
 <p> <i> <font style = "vertical-align: inherit;"> <font style = "vertical-align: inherit;"> The role of the Chief Marketing Officer (CMO) or Marketing Director is to lead the business of general marketing of an organization, particularly in its digital dimension; </font> <font style = "vertical-align: inherit;" class = ""> from market research to advertising strategy, including guidance on the development of company offers, customer targeting and branding. & nbsp; </font> </font> </i> </p>
