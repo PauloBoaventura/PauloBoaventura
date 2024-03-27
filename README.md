@@ -3,6 +3,8 @@
 
 <a href="https://www.linkedin.com/in/pauloboaventura/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://stackoverflow.com/users/9431571"><img src="https://img.shields.io/badge/stackoverflow-%23f48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25></a> <a href="https://clubnation.site"><img src="https://img.shields.io/badge/Blog-%23070.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25></a> <a href="mailto:contato@clubnation.site"><img src="https://img.shields.io/badge/email-%23f10.svg?&style=for-the-badge&logo=website&logoColor=white" height=25></a>
 
+<img width="1685" alt="Himanshu-Kumar-Portfolio-banner" src="https://user-images.githubusercontent.com/87880250/210894322-069b8c98-6f34-4d4d-9f84-ad40308a6492.png">
+
 [![My github stats](https://github-readme-stats.vercel.app/api?username=pauloboaventura&count_private=true&bg_color=fff&text_color=0A2540&title_color=635BFF&hide=stars&custom_title=GitHub%20Stats)](https://github.com/pauloboaventura)
 
 
