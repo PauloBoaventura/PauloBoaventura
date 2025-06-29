@@ -7,11 +7,11 @@
   <a href="https://stackoverflow.com/users/9431571">
     <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white" />
   </a>
-  <a href="https://clubnation.site">
-    <img src="https://img.shields.io/badge/Blog-ClubNation-%230070B5?style=flat-square&logo=wordpress&logoColor=white" />
+  <a href="https://clubnation.com.br">
+    <img src="https://img.shields.io/badge/Blog-ClubNation-%230070B5?style=flat-square&logo=php&logoColor=white" />
   </a>
-  <a href="mailto:contato@clubnation.site">
-    <img src="https://img.shields.io/badge/Email-contato@clubnation.site-%23ea4335?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:contato@clubnation.com.br">
+    <img src="https://img.shields.io/badge/Email-contato@clubnation.com.br-%23ea4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -40,7 +40,8 @@
 
 ### 🛠 Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=react,nodejs,php,laravel,python,golang,docker,terraform,aws,azure,git,github,vite,vue,figma)
+![Tech Stack](https://skillicons.dev/icons?i=ai,androidstudio,angular,ansible,apache,appwrite,arduino,azure,babel,bash,bootstrap,c,clojure,cmake,cloudflare,dart,deno,docker,dotnet,elixir,elasticsearch,express,figma,flutter,git,github,githubactions,golang,grafana,graphql,gulp,html,java,javascript,jest,jira,jquery,jupyter,kafka,kotlin,kubernetes,laravel,linux,markdown,mongodb,mysql,nestjs,netlify,nextjs,nodejs,nuxtjs,obsidian,openssl,packer,perl,php,postman,postgresql,pnpm,prettier,prisma,python,pytest,rails,react,redis,ruby,rust,sass,selenium,sentry,solidity,stackoverflow,styled-components,subversion,swift,tailwind,terraform,tensorflow,timescale,tmux,tornado,typescript,ubuntu,vagrant,vercel,vim,vue,webpack,yarn,zsh
+)
 
 ---
 
