@@ -47,10 +47,14 @@
 </p>
 
 ---
+<h1 align="center"> Mastermind 🚀</h1>
 
+<p align="center">
+  ![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=PauloBoaventura.PauloBoaventura&left_color=blue&right_color=green)
+</p>
 ### ✨ Animação SVG Personalizada
 
-```html
+
 <!-- Código SVG animado – sutil pulsar no logo -->
 <svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
   <defs>
